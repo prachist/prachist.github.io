@@ -1,0 +1,20 @@
+.profile-pic {
+	max-width: 50%;
+}
+/* 
+this is a comment
+*/
+
+.card{
+	border:solid #cccccc 1px;
+	border-radius:4px;
+	padding: 20px;
+	margin-bottom:10px;
+	box-shadow: 3px 3px 10px #cccccc;
+}
+.mybackground {
+  background-image: url("../img/coolcat.jpg");
+  background-size:1500px 1200px;
+  background-repeat: no-repeat;
+  color: blue;
+}
